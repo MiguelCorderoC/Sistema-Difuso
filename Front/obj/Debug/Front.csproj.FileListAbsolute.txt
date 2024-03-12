@@ -1,0 +1,11 @@
+C:\Users\lavan\Documents\Topicos de IA\Unidad 2\Sistema difuso peliculas\Sistema Difuso\Front\bin\Debug\Front.exe.config
+C:\Users\lavan\Documents\Topicos de IA\Unidad 2\Sistema difuso peliculas\Sistema Difuso\Front\bin\Debug\Front.exe
+C:\Users\lavan\Documents\Topicos de IA\Unidad 2\Sistema difuso peliculas\Sistema Difuso\Front\bin\Debug\Front.pdb
+C:\Users\lavan\Documents\Topicos de IA\Unidad 2\Sistema difuso peliculas\Sistema Difuso\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Users\lavan\Documents\Topicos de IA\Unidad 2\Sistema difuso peliculas\Sistema Difuso\Front\obj\Debug\Front.csproj.SuggestedBindingRedirects.cache
+C:\Users\lavan\Documents\Topicos de IA\Unidad 2\Sistema difuso peliculas\Sistema Difuso\Front\obj\Debug\Front.Form1.resources
+C:\Users\lavan\Documents\Topicos de IA\Unidad 2\Sistema difuso peliculas\Sistema Difuso\Front\obj\Debug\Front.Properties.Resources.resources
+C:\Users\lavan\Documents\Topicos de IA\Unidad 2\Sistema difuso peliculas\Sistema Difuso\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Users\lavan\Documents\Topicos de IA\Unidad 2\Sistema difuso peliculas\Sistema Difuso\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\lavan\Documents\Topicos de IA\Unidad 2\Sistema difuso peliculas\Sistema Difuso\Front\obj\Debug\Front.exe
+C:\Users\lavan\Documents\Topicos de IA\Unidad 2\Sistema difuso peliculas\Sistema Difuso\Front\obj\Debug\Front.pdb
